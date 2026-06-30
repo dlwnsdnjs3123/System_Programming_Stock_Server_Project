@@ -1,0 +1,10 @@
+document.pdf
+
+stockserver
+stockclient
+multiclient
+*.o
+*~
+
+.DS_Store
+Thumbs.db
